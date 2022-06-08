@@ -33,6 +33,10 @@ CORES INDEX - CADASTRO
 FONTE INDEX:
 - Arial, helvetica, sans-serif
 
+TELA DE INDEX
+
+![INDEX](https://user-images.githubusercontent.com/106562240/172733534-3258c2b3-c1bc-4f66-a4d4-e73834f3c307.JPG)
+
 
 
 
